@@ -15,6 +15,8 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 
 ![image](https://github.com/VictorGoncalves27/O_Hospital_Fundamental/assets/142261805/21ef1a3f-c4a3-4e9e-8e69-cf8033241be4)
 
+ 💎 *PARTE 2*- Diagrama Entidade Relacionamento
+
 No hospital, as internações têm sido registradas por meio de formulários eletrônicos que gravam os dados em arquivos. 
 
 Para cada internação, são anotadas a data de entrada, a data prevista de alta e a data efetiva de alta, além da descrição textual dos procedimentos a serem realizados. 
